@@ -1,0 +1,9 @@
+# ninja log v6
+3	594	7656241105531298	first_autogen/timestamp	6028029babbcdb3f
+3	594	7656241105531298	first_autogen/mocs_compilation.cpp	6028029babbcdb3f
+3	594	7656241105531298	D:/env-soft-rep/Qt-res/first/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/first_autogen/timestamp	6028029babbcdb3f
+3	594	7656241105531298	D:/env-soft-rep/Qt-res/first/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/first_autogen/mocs_compilation.cpp	6028029babbcdb3f
+597	1784	7656241106315122	CMakeFiles/first.dir/first_autogen/mocs_compilation.cpp.obj	5eb076060eab18f0
+603	1790	7656241106375799	CMakeFiles/first.dir/main.cpp.obj	d96b7e6c29c28152
+608	1809	7656241106435137	CMakeFiles/first.dir/mainwindow.cpp.obj	b3fac37bec200594
+1809	1988	7656241118442402	first.exe	dd9fd436680b06fa
